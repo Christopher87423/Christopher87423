@@ -1,10 +1,16 @@
+<<<<<<< HEAD
+#
+=======
 # Bienvenidos
-![banner de christopher](Christopher4.png)
+![banner de christopher](Christopherificial.png)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+>>>>>>> 15736ccbcc43094dab38c67d0fa7d84eabed30e2
 
+<<<<<<< HEAD
+=======
 Soy **[Christopher]**, un apasionado desarrollador de software con más de **10** años de experiencia en la industria. Mi enfoque principal es **[área de especialización, como desarrollo backend, inteligencia artificial o sistemas embebidos]**.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -36,3 +42,4 @@ Soy **[Christopher]**, un apasionado desarrollador de software con más de **10*
 ![Chrsitopher GitHub stats](https://github-readme-stats.vercel.app/api?username=christopher87423&show_icons=true&bg_color=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+>>>>>>> 15736ccbcc43094dab38c67d0fa7d84eabed30e2
