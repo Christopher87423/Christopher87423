@@ -1,7 +1,6 @@
 # Bienvenidos
 ![banner de christopher](Christopheroficial.png)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter]("https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter&logoColor=white")
 ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
@@ -34,7 +33,7 @@ Soy **[Christopher]**, un apasionado desarrollador de software con más de **5**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Chrsitopher GitHub stats](https://github-readme-stats.vercel.app/api?username=condorcoders&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40")
+![Chrsitopher GitHub stats](https://github-readme-stats.vercel.app/api?username=condorcoders&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_theme=dark")
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher87423&layout=compact&theme=dark)
 
