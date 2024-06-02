@@ -33,9 +33,9 @@ Soy **[Christopher]**, un apasionado desarrollador de software con más de **5**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Chrsitopher GitHub stats](https://github-readme-stats.vercel.app/api?username=christopher87423&include_all_commits=true&count_private=true&show_icons=true&theme=dark)
+![Chrsitopher GitHub stats](https://github-readme-stats.vercel.app/api?username=christopher87423&include_all_commits=true&count_private=true&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher87423&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher87423&layout=compact&theme=onedark)
 
 
 
