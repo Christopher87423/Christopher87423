@@ -1,17 +1,12 @@
-<<<<<<< HEAD
-#
-=======
 # Bienvenidos
-![banner de christopher](Christopherificial.png)
+![banner de christopher](Christopheroficial.png)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Twitter]("https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white")
 ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
->>>>>>> 15736ccbcc43094dab38c67d0fa7d84eabed30e2
 
-<<<<<<< HEAD
-=======
-Soy **[Christopher]**, un apasionado desarrollador de software con más de **10** años de experiencia en la industria. Mi enfoque principal es **[área de especialización, como desarrollo backend, inteligencia artificial o sistemas embebidos]**.
+
+Soy **[Christopher]**, un apasionado desarrollador de software con más de **5** años de experiencia en la industria. Mi enfoque principal es **[área de especialización, como desarrollo backend, inteligencia artificial o sistemas embebidos]**.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -39,7 +34,10 @@ Soy **[Christopher]**, un apasionado desarrollador de software con más de **10*
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Chrsitopher GitHub stats](https://github-readme-stats.vercel.app/api?username=christopher87423&show_icons=true&bg_color=dark)
+![Chrsitopher GitHub stats](https://github-readme-stats.verse1.app/api?username=christopher87423&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
->>>>>>> 15736ccbcc43094dab38c67d0fa7d84eabed30e2
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher87423&layout=compact&theme=dark)
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=christopher87423&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
