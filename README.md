@@ -35,7 +35,7 @@ Soy **[Christopher]**, un apasionado desarrollador de software con más de **5**
 
 ![Chrsitopher GitHub stats](https://github-readme-stats.vercel.app/api?username=christopher87423&include_all_commits=true&count_private=true&show_icons=true&theme=dark")
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher87423&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christopher87423&show_icons=true&theme=dark)
 
 
 
